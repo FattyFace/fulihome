@@ -1,19 +1,24 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Research experiences
+# Big Data Intelligent Storage at the Network Edge
+- company: Information Content Analysis Technology Engineering Laboratory, SJTU
+  position: Big Data Intelligent Storage at the Network Edge
+  duration: Oct.2018 &mdash; May.2019 
+  summary: <ul class="resume-item-list"><li>Lacking a unified edge storage architecture can cause obstacles of data sharing in different edge computing systems.</li><li>Proposed a novel unified storage architecture for big data in the edge-cloud, which supports edge services in order to extend Hadoop at the edge.</li><li>Devised a dynamic storage policy-making mechanism based on Q-learning.</li><li>Simulation results showed that the task processing delay and the minimum cost of the proposed architecture are better than the traditional method.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Trustworthy Edge Storage in Intelligent Transportation Systems  
+- company: Information Content Analysis Technology Engineering Laboratory, SJTU
+  position: Trustworthy Edge Storage in Intelligent Transportation Systems  
+  duration: Aug.2019 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Based on the edge intelligent storage architecture proposed in the previous work, apply it to intelligent transportation systems, and the security is also considered.</li><li>Proposed a distributed trustworthy storage architecture with reinforcement learning in ITS.</li><li>Devised a trust evaluation mechanism based the interaction between cooperative devices.</li><li>Simulation results demonstrated that our proposed distributed trustworthy storage architecture outperforms the comparison ones in terms of trustworthiness and efficiency.</li></ul>
 
+# Undergraduate thesis 
+- company: Network Group Intelligence Laboratory, SEU
+  position: Optimization of Economic Dispatch and Unit Commitment based Reinforcement-Learning in Smart Grid 
+  duration: Jan.2018 &mdash; Jun.2018
+  summary: <ul class="resume-item-list"><li>In order to achieve the transition from traditional power systems to smart grids, economic dispatch and unit commitment issues need to be re-solved.</li><li>Proposed a new centralized and a novel distributed optimization algorithm of dispatch based on Reinforcement-Learning.</li><li>Simulation results showed that distributed algorithms found optimal strategies faster.</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# National Innovation Training Project 
+- company: Network Group Intelligence Laboratory, SEU
+  position: Attitude stabilization of spacecraft control based on quaternion  
+  duration: Dec.2015 &mdash; May 2017
+  summary: <ul class="resume-item-list"><li>Hard to obtain the upper bound of the disturbance in spacecraft attitude stabilization.</li><li>Proposed a novel adaptive control law with sliding mode controller and designed the Lyapunov function.</li><li>Proved the system under the designed protocol can be bounded in fixed time without upper bounds of inertia uncertainty and external disturbance.</li></ul>
